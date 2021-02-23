@@ -107,6 +107,7 @@ ul {
     height:30px;
     text-align:center;
     line-height:30px;
+    margin: 6px;
 }
 
 .circle-check-mark {
@@ -120,8 +121,7 @@ ul {
     vertical-align: middle;
     background-color: transparent;
     border: 1px solid green;
-    margin-right: 6px;
-    margin: 5px;
+    margin: 5px; 
 }
 
 .saltire{
@@ -135,7 +135,6 @@ ul {
     vertical-align: middle;
     background-color: transparent;
     border: 1px solid red;
-    margin-right: 6px;
     margin: 5px;
 }
 
