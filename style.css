@@ -81,7 +81,7 @@ ul {
 .box-1, .box-2, .box-3 {
     margin: 30px auto;
 }
-#color-blue {
+.color-blue {
     background-color: #45abea;
 }
 #color-viola {
@@ -139,13 +139,6 @@ ul {
 }
 
 
-/* 
-
-.title-p {
-    font-size: 30px;
-    line-height: 40px;
-    height: 40px;
-} 
 
 
 
