@@ -27,11 +27,12 @@ main {
 .buttons {
     padding: 20px 0 20px 0;
 }
-.css-button {
+
+a {
     padding: 8px;
     border-radius: 5px;
-    margin-bottom: 20px;
-    
+    background-color: #45abea; 
+    color: white;
 }
 
 
@@ -50,18 +51,6 @@ main {
     border-bottom:1px solid #c5c9cd;
 }
 
-#button-1 {
-    background-color: #47adf1;
-    color: white;
-    margin-left: 50px;
-    border: 1px solid transparent;
-}
-#button-2 {
-    background-color: white;
-    margin-left: 10px;
-    color: #d8d8d8;
-    border: 1px solid #d8d8d8;
-}
 
 
 ul {
