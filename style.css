@@ -8,9 +8,8 @@ body {
     background-color: #c5c9cd;
 }
 header {
-    height: 100px;
-    line-height: 100px;
     background-color: white;
+    padding: 20px;
 }
 .logo-text {
     font-size: 50px;
@@ -19,7 +18,7 @@ header {
 }
 .logo {
     vertical-align: middle;
-    margin-left: 50px;
+    
 }
 
 
